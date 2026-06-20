@@ -92,3 +92,5 @@ python app.py
 
 ## ⭐ Conclusion
 This project demonstrates the integration of **Machine Learning + Web Development**, making it a complete end-to-end solution for real-time prediction systems.
+
+
